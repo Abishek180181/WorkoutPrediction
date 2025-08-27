@@ -1,0 +1,29 @@
+{
+  "random_state": 42,
+  "target_total_rows": 12000,
+  "class_balance": {
+    "1": 6000,
+    "0": 6000
+  },
+  "categorical_columns": [
+    "Gender",
+    "Training_Frequency",
+    "Injury_History",
+    "Stress_Level"
+  ],
+  "numeric_columns": [
+    "Age",
+    "Height_cm",
+    "Weight_kg",
+    "BMI",
+    "Training_Duration",
+    "Warmup_Time",
+    "Sleep_Hours",
+    "Flexibility_Score",
+    "Muscle_Asymmetry",
+    "Recovery_Time",
+    "Training_Intensity",
+    "TLI"
+  ],
+  "source_file": "data\\sirp600.xlsx"
+}

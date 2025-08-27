@@ -1,0 +1,50 @@
+{
+  "folds": [
+    {
+      "fold": 0,
+      "majority_class": 0,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "fold": 1,
+      "majority_class": 0,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "fold": 2,
+      "majority_class": 0,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "fold": 3,
+      "majority_class": 0,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    },
+    {
+      "fold": 4,
+      "majority_class": 0,
+      "accuracy": 0.5,
+      "precision": 0.0,
+      "recall": 0.0,
+      "f1": 0.0
+    }
+  ],
+  "summary": {
+    "accuracy_mean": 0.5,
+    "precision_mean": 0.0,
+    "recall_mean": 0.0,
+    "f1_mean": 0.0
+  }
+}

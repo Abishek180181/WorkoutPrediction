@@ -1,0 +1,15 @@
+{
+  "best_params": {
+    "clf__max_depth": null,
+    "clf__max_features": "sqrt",
+    "clf__min_samples_leaf": 1,
+    "clf__min_samples_split": 2,
+    "clf__n_estimators": 200
+  },
+  "cv_best_score_f1": 1.0,
+  "test_accuracy": 0.95,
+  "test_precision": 0.9705882352941176,
+  "test_recall": 0.868421052631579,
+  "test_f1": 0.9166666666666666,
+  "test_roc_auc": 0.9335686777920411
+}

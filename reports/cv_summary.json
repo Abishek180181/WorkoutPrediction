@@ -1,0 +1,94 @@
+{
+  "Decision_Tree": {
+    "accuracy": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "precision": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "recall": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "f1": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "roc_auc": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "n_folds": 5
+  },
+  "Logistic_Regression": {
+    "accuracy": {
+      "mean": 0.8386666666666667,
+      "std": 0.013659423893821854
+    },
+    "precision": {
+      "mean": 0.8665886838242832,
+      "std": 0.015077628128721831
+    },
+    "recall": {
+      "mean": 0.8008333333333333,
+      "std": 0.02490258799580658
+    },
+    "f1": {
+      "mean": 0.8322082652695665,
+      "std": 0.015520852861255168
+    },
+    "roc_auc": {
+      "mean": 0.9151981944444444,
+      "std": 0.005697461061580409
+    },
+    "n_folds": 5
+  },
+  "Random_Forest": {
+    "accuracy": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "precision": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "recall": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "f1": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "roc_auc": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "n_folds": 5
+  },
+  "XGBoost": {
+    "accuracy": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "precision": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "recall": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "f1": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "roc_auc": {
+      "mean": 1.0,
+      "std": 0.0
+    },
+    "n_folds": 5
+  }
+}
